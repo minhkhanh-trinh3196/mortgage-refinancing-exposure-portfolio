@@ -185,3 +185,13 @@ This project was developed using Databricks for Python and SQL analysis, with Po
 - Raw Freddie Mac source files and the Power BI project file containing loan-level data are not publicly distributed in this repository. Access to the underlying Freddie Mac datasets is subject to the applicable data usage terms.
 - The analysis may require environment-specific configuration and access to the source datasets.
 - The interest-rate scenarios are hypothetical sensitivity analyses, not forecasts of actual refinancing activity or financial losses.
+
+## Copyright Notice
+
+© 2026 Minh Khanh Trinh. All rights reserved.
+
+The original analytical code, project documentation, and visualizations in this repository are provided for portfolio demonstration purposes.
+
+No permission is granted to reproduce, redistribute, or present this work as one's own without prior authorization.
+
+Third-party datasets and materials remain subject to their respective licenses and terms of use.
