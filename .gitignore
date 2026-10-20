@@ -1,0 +1,23 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+.env
+.env.*
+
+# Raw and intermediate data
+data/
+*.csv
+*.parquet
+*.zip
+
+# Power BI project files
+*.pbix
+
+# Operating system files
+.DS_Store
+Thumbs.db
